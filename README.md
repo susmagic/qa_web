@@ -17,14 +17,8 @@ git clone https://github.com/susmagic/qa_web.git
 ```
 npm i
 ```
-Для запуска первого теста
+Для запуска первого тестов
 ```
-node testOne.js
-```
-Для запуска второго теста
-```
-node testTwo.js
+npm run test
 ```
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
