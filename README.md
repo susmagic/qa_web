@@ -8,7 +8,7 @@
 После установки склонируите проект к себе локально
 
 ```
-git clone project_name
+git clone https://github.com/susmagic/qa_web.git
 ```
 
 ## Usage
