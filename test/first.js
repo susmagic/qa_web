@@ -13,7 +13,7 @@ describe('Задача 1: Проверка title и ошибок консоли'
             let arr = lines[line]
             let url = arr.substr(0, arr.indexOf(','));
             let title = arr.substring(url.length + 1, arr.length)
-            it(`${title}`, () => {
+            it(`Line: ${title}`, () => {
                 browser.url(url)
                 console.log(browser.log('browser'))
                 expect(browser.getTitle()).to.equal(title)
