@@ -3,5 +3,4 @@ https://www.onetwotrip.com/ru/,Авиабилеты дорого, купить �
 https://github.com/agoda-com/Kakao/tree/master/docs/kakao,Kakao/docs/kakao at master · agoda-com/Kakao · GitHub
 https://github.com/agoda-com/Kakao/tree/master/docs/kakao,Kakao/docs/kakao at master · agoda-com/Kakao · GitHub7
 https://github.com/agoda-com/Kakao/tree/master/docs/kakao,
-barUrl,Kakao/docs/kakao at master · agoda-com/Kakao · GitHub7
-https://github.c,3223
+https://mail.ru/,Mail.ru: почта, поиск в интернете, новости, игры
