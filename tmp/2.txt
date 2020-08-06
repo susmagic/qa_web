@@ -1,0 +1,4 @@
+https://www.onetwotrip.com/ru/,200
+https://www.onetwotrip.com/ru/,404
+https://github.com/KasperskyLab/Kaspresso/blob/master/sample/src/androidTest/java/com/kaspersky/kaspressample/device_tests,404
+barUrl,200
